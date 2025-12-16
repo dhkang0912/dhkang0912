@@ -1,35 +1,57 @@
-### 응애 개발자에서 주니어 개발자로 성장하자!
-# 두홍이의 개발자 성장일기
+## 강두홍 | Frontend Developer
 
-### 방황했던 나날들
-- MBTI 독점 발행 회사 :  학교 담당 지원 연구원
-- 온라인 상담 앱 서비스 회사 :  CX 매니저
-- 서울아이티고등학교 : 진로진학상담 기간제 교사
-- 애드블락 블락 회사 : 인사총무
-- 온라인 금거래 회사 : 인사 실무 담당자
-# 
+> 사람과 시스템 사이의 복잡함을 구조로 정리하는 프론트엔드 개발자입니다.
 
-### 그래서 넌 왜 개발자가 되고 싶었어?
-- 기존에 했던 직무 상 한계 발생, 하단과 같은 이유로 개발자 고려  
-**1. 추구하는 *가치*를 이루고 싶음**  
-더 많은 사람들을 임팩트 있게 돕고 싶음 (편의성 증대)  
-**2. 시간을 가지고 고민해서 나만의 무언가를 *만들어 내는 것*이 좋음**  
-고민해서 나만의 무언가를 만드는 일을 하고 싶음  
-주기적으로 배워야 하고 새로운 것들을 해나가는 일이 잘 맞음  
-**3. *나만의 전문성*을 가지고 싶음**  
-배울 수 있는 자료가 많아서 내가 공부해나가면 전문성을 가질 수 있는 일을 하고 싶음   
-#
+---
 
-### 그럼 어떤 개발자가 되고 싶어?
-```python
-사람을 돕고자 하는 나의 가치를 이루는 개발자
-나만이 할 수 있는 독점적인 영역을 잘 알고 키워나가는 개발자
-지금까지 내가 배우고 경험했던 '교육, 심리, 인사 분야'를 반영할 수 있는 개발자
-```
-#
-### 올 한해 내가 계속 되새기고 싶은 말
-**중요한 건 꺾여도 그냥!!!!!!! 하는!!!!!!! 마음**  
-뭘하든지 어떤 걸 어느 정도 하게 되려면 최소 1년은 돌아야 된다  
-그렇기에 지금은 그걸 채워가는 과정으로 중요한 건 포기하지 않고 그냥 하는 것이다  
-중간에 놓으면 아무것도 되지 않기에 중요한 건 꺾여도 그냥 하자!!!  
-![](snoopy.jpg)
+### 👋 About Me
+- 내부 서비스 및 운영 도구 중심의 프론트엔드 개발 경험
+- 기존 시스템을 분석하고 구조를 정리하며 개선하는 작업에 강점
+- 교육 · 심리 · 인사 도메인 경험을 바탕으로  
+  사용자와 운영자의 관점을 함께 고려한 UI/UX를 설계합니다
+
+---
+
+### 🧩 Experience
+- **Frontend Developer** — Internal Service & Admin Tools (2025.05 ~ Present)
+- **Samsung Software Academy for Youth** (2024.01 ~ 2024.12)
+
+---
+
+### 🔍 What I Focus On
+- 복잡한 상태와 조건을 **명확한 구조로 단순화**
+- 페이지 · 상태 · 데이터의 책임을 분리하는 설계
+- “지금은 되지만, 나중에 무너질 코드”를 경계합니다
+
+---
+
+### 🔨 Tech Stack
+
+#### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+#### State & Data
+![Pinia](https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=fff)
+
+#### Styling
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
+![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=fff)
+
+#### Collaboration & Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+
+---
+
+### ✍️ Writing
+- 개발 과정에서의 고민과 해결을 기록합니다  
+  → **Velog**: https://velog.io/@sarah0912
